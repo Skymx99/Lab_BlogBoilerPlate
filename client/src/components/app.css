@@ -1,0 +1,73 @@
+body {
+    background-color: #2e2e2e;
+}
+.blogPost {
+
+    height: 100em;
+    padding-top: 2em;
+
+}
+
+.card {
+    width: 100%;
+    background-color: #2e2e2e;
+    outline-color: #00daaa;
+    outline-width: 5px;
+    outline-style: solid;
+    /* outline-color: white;
+    outline-width: 5px;
+    outline-style: solid; */
+}
+
+.jumbotron {
+    background-image: url('./hero.jpeg');
+    background-color: #45A29E;
+    background-size: 100%;
+    background-position: top;
+    height: 650px;
+
+}
+
+h1 {
+    color: rgb(235, 134, 75);
+}
+
+.lead {
+    color: black;
+    font-size: 2em;
+}
+
+a.navbar-brand {
+    color: white;
+    outline: none;
+}
+
+a.navbar-brand:active {
+    outline: none;
+}
+
+nav.navbar {
+    background-color: rgb(235, 134, 75);
+}
+.card-title {
+    color: rgb(235, 134, 75);
+}
+
+.form-control {
+    background-color: #C5C6C7;
+}
+
+.card-body {
+    background-color: #2e2e2e;
+    outline-color: #00daaa;
+    outline-width: 5px;
+    outline-style: solid;
+}
+
+label {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
